@@ -4,3 +4,4 @@ React를 공부한 흔적과 공부하면서 만들어본 간단한 프로젝트
 2. Todolist (기본 버전)
 3. Todolist (Redux +)
 4. Todolist (Firebase +)
+5. Velopert React (클래스, 함수 컴포넌트)
