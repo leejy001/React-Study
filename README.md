@@ -6,3 +6,4 @@ React를 공부한 흔적과 공부하면서 만들어본 간단한 프로젝트
 4. Todolist (Firebase +)
 5. Velopert React (클래스, 함수 컴포넌트)
 6. Velopert React (Redux, Redux-thunk)
+7. Redux Thunk & Saga
