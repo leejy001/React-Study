@@ -8,3 +8,5 @@ React를 공부한 흔적과 공부하면서 만들어본 간단한 프로젝트
 6. Velopert React (Redux, Redux-thunk)
 7. Redux Thunk & Saga
 8. Context API
+9. immer 써보기
+10. news api 이용해보기
