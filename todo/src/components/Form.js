@@ -1,19 +1,8 @@
 import React from "react";
 
-export default function Form({ value, setValue, setTodoData }) {
+export default function Form({ value, setValue, setTodoData, handleSubmit }) {
   const handleChange = (e) => {
     setValue(e.target.value);
-  };
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    let newTodo = {
-      id: Date.now(),
-      title: value,
-      completed: false
-    };
-    setTodoData((prev) => [...prev, newTodo]);
-    setValue("");
   };
 
   return (
